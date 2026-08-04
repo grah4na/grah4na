@@ -1,19 +1,18 @@
 <div>
-<img src="https://media1.tenor.com/m/s9bUQJsDmzkAAAAC/mimpi-keyvan-naruto.gif" width="72" align="left"/>
 
-<b>Denis Gulmammadov</b><br>
-15 years old<br>
-operating systems · ai · mathematics · copyleft · free software
+
+<b>Graꫝana</b><br>
+18 year old<br>
+cyber sec· linux · backend 
 
 </div>
 
 <br clear="left"/>
 
-software developer from azerbaijan. interested in operating systems, computer networks, distributed systems, programming languages, AI and low-level software. activist of "ɔ", copyleft and free software.
+just a tech . interested in operating systems, computer networks, web security & rust.
 
-user of GNU+Linux and Emacs. "free as in freedom, not free as in zero price" — rms<img src="https://media.tenor.com/HhCBumlpp4MAAAAi/moe-konata.gif" width="48" style="vertical-align: middle; margin-bottom: -15px;" />
 
-> *"if the users don't control the program, the program controls the users."* — richard stallman
+> *"A bug is never just a mistake. It represents something bigger. An error of thinking that makes you who you are.."* — elliot
 
 <div align="center">
 
