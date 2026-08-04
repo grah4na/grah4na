@@ -11,7 +11,7 @@ cyber sec· linux · backend
 
 <br clear="left"/>
 
-just a tech . interested in operating systems, computer networks, web security & rust.
+just a tech . interested in computer organization & design ,operating systems, computer networks, web security and rust.
 
 
 > *"A bug is never just a mistake. It represents something bigger. An error of thinking that makes you who you are.."* — elliot
