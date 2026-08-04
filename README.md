@@ -23,9 +23,9 @@ just a tech . interested in operating systems, computer networks, web security &
 <br><br>
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
-  <img src="https://media1.tenor.com/m/AUwe8tYasOkAAAAd/gif-lucky-star.gif" width="65"/>
+  
   <span>
-    <a href="https://discord.gg/1348267329603113043">discord</a> · <a href="mailto:grah4na@gmail.com">email</a> · 
+    <a href="https://discord.com/users/1348267329603113043">discord</a> · <a href="mailto:grah4na@gmail.com">email</a> · 
   </span>
   <img src="https://media.tenor.com/7rCtKSHxnTYAAAAi/konata.gif" width="60"/>
 </div>
