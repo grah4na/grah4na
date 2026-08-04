@@ -16,7 +16,7 @@ just a tech . interested in operating systems, computer networks, web security &
 
 <div align="center">
 
-<img src="docs/Stallman.jpg" width="250"/> <img src="docs/tsoding.jpeg" width="250"/> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnhlNjN0djd3YXB0b3h6NHFoZTZnbG00bjFjdmM2ZXJobHNheWJocSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dDwicM3uFUqfC/giphy.gif" width="250"/>
+<img src="docs/Stallman.jpg" width="250"/> <img src="Lain Radiohead pfp by me.jpeg" width="250"/> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnhlNjN0djd3YXB0b3h6NHFoZTZnbG00bjFjdmM2ZXJobHNheWJocSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dDwicM3uFUqfC/giphy.gif" width="250"/>
 
 <br><br>
 
