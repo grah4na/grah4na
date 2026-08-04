@@ -6,7 +6,7 @@
 cyber sec· linux · backend 
 </div>
 <br clear="left"/>
-just a tech . interested in computer organization & design ,operating systems, computer networks, web security and rust.<br>
+just a tech.interested in computer organization & design ,operating systems, computer networks, web security and rust.<br>
 
 </br>
 
