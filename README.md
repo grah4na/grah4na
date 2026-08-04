@@ -1,5 +1,5 @@
 <div>
-<img src="h[ttps://media.tenor.com/WIqvnT_7Vj8AAAAj/terry-a-davis-terry-davis.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDd2NGxuYW4xejU2c2U4YnIwand3ZHYzNnVoMXNkdGJjaTVvcXY2NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gpF1hNYWOFvLa/giphy.gif)" width="72" align="left"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDd2NGxuYW4xejU2c2U4YnIwand3ZHYzNnVoMXNkdGJjaTVvcXY2NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gpF1hNYWOFvLa/giphy.gif" width="72" align="left"/>
 
 <b>Denis Gulmammadov</b><br>
 15 years old<br>
