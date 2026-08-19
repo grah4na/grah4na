@@ -3,7 +3,7 @@
 
 <b>Graꫝana</b><br>
 18 year old<br>
-cyber sec· linux · backend 
+cyber sec· linux · backend · rust
 </div>
 <br clear="left"/>
 just a tech.interested in computer organization & design ,operating systems, computer networks, web security and rust.<br>
