@@ -2,7 +2,7 @@
 
 
 <b>Graꫝana</b><br>
-18 year old<br>
+18 y/o <br>
 cyber sec· linux · backend · rust
 </div>
 <br clear="left"/>
