@@ -7,11 +7,10 @@
 <div align="left">
 <samp>
 
-<br><br>
-
+<br>
 web application security • low level • rust
 
-<br><br>
+<br>
 
 <a href="https://x.com/grah4na"><strong>x (twitter)</strong></a>
 &nbsp;|&nbsp;
