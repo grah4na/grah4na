@@ -8,7 +8,7 @@
 <samp>
 
 <br>
-web application security // low level // rust
+web application security // low-level // rust
 
 <br><br>
 <a href="https://x.com/grah4na"><strong>x (twitter)</strong></a>
